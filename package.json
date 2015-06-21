@@ -1,0 +1,13 @@
+{
+  "name": "xsltWatcher",
+  "version": "0.0.1",
+  "description": "A node service that watch on source and transform files to generate automatically a result on change.",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "author": "RFI",
+  "dependencies": {
+    "lodash": "~3.9.3"
+  }
+}
